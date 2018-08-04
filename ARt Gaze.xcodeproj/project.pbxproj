@@ -279,7 +279,6 @@
 		F2FCC0502114F02900F858D3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DV3PL2BWD2;
 				INFOPLIST_FILE = "ARt Gaze/Info.plist";
@@ -297,7 +296,6 @@
 		F2FCC0512114F02900F858D3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = DV3PL2BWD2;
 				INFOPLIST_FILE = "ARt Gaze/Info.plist";
